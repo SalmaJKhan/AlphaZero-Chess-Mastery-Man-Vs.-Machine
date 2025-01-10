@@ -1,6 +1,6 @@
 # AlphaZero-Chess-Mastery-Man-Vs.-Machine
 
-# It covers the following topics:
+It covers the following topics:
 - ♔ Introduction — The Case of Chess ♛
 - ♘ How does AphaZero play? 
 - ♞ Wondering what’s Zero in AlphaZero?
